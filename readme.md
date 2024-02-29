@@ -20,7 +20,7 @@ First run the tests and then run command:
 npm run allure
 ```
 
-##How To run the four test cases 
+## How To run the four test cases 
 To run the 4 scenarios you need to use these tags
 Run command:
 ```
